@@ -7,7 +7,7 @@ EXPERIMENTAL tool
 
 * arakkal vaanangal
 
-* Nullhead
+* adakkaaa kalam
 
 
 # installation
@@ -16,7 +16,7 @@ EXPERIMENTAL tool
 
 * apt-get install sl
 
-apt-get install libcaca
+* apt-get install libcaca
 
 * chmod +x *
 
