@@ -4,11 +4,13 @@ EXPERIMENTAL tool
 polayat kalam 
 arakkal vaanangal
 Nullhead
-#installation
+
+# installation
+
 apt-get install figlet
 apt-get install sl
 apt-get install libcaca
 chmod +x *
 ./insta.sh
-#⬇️⬇️⬇️⬇️⬇️⬇️
+# ⬇️⬇️⬇️⬇️⬇️⬇️
 
