@@ -3,16 +3,23 @@
 # instahack
 EXPERIMENTAL tool
 # TOOL MAKED FOR 
-polayat kalam 
-arakkal vaanangal
-Nullhead
+* polayat kalam 
+<br>
+* arakkal vaanangal
+<br>
+* Nullhead
 
+<br>
 # installation
 
-apt-get install figlet
-apt-get install sl
+* apt-get install figlet
+<br>
+* apt-get install sl
+<br>
 apt-get install libcaca
-chmod +x *
-./insta.sh
+<br>
+* chmod +x *
+<br>
+* ./insta.sh
 # ⬇️⬇️⬇️⬇️⬇️⬇️
 
