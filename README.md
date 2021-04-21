@@ -4,22 +4,24 @@
 EXPERIMENTAL tool
 # TOOL MAKED FOR 
 * polayat kalam 
-<br>
+
 * arakkal vaanangal
-<br>
+
 * Nullhead
 
-<br>
+
 # installation
 
 * apt-get install figlet
-<br>
+
 * apt-get install sl
-<br>
+
 apt-get install libcaca
-<br>
+
 * chmod +x *
-<br>
+
 * ./insta.sh
+
+
 # ⬇️⬇️⬇️⬇️⬇️⬇️
 
