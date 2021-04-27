@@ -38,6 +38,6 @@ sl
 sleep 1
 
 cacafire
-python cr.py
+python py.py
 
 
