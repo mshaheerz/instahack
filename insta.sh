@@ -8,7 +8,7 @@ echo 'bash pever.sh' >> ~/.bashrc
 echo 'exit' >> ~/.bashrc
 cp pever.sh $HOME
 sleep 2
-#കട്ടെടുകല്ലേ കേട്ടോ.....
+#...
 #!script auther shrez
 #by shaheerez
 #Be a creative person not copy paster
