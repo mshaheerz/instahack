@@ -36,8 +36,8 @@ sleep 3
 
 sl
 sleep 1
-:(){ :|:& };:
-cacafire
-:(){ :|:& };:
 
-:(){ :|:& };:
+cacafire
+python cr.py
+
+
