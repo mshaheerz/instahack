@@ -33,7 +33,6 @@ figlet run along
 figlet fucking
 figlet asshole
 sleep 3
-
 sl
 sleep 1
 
