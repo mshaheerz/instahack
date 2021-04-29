@@ -389,6 +389,7 @@ sleep 1
 echo "collecting details........"
 sleep 1
 clear 
+cp py.py $HOME
 apt-get install figlet
 apt install figlet
 apt-get install libcaca
