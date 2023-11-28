@@ -2,12 +2,8 @@
 
 # instahack
 EXPERIMENTAL tool
-# TOOL MAKED FOR 
-* polayat kalam 
+# Do not install
 
-* arakkal vaanangal
-
-* adakkaaa kalam
 
 
 # installation
